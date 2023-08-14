@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" href="Resource/css/IndexStyle.css">
         <?php include "Templates/AppStyles.php"; ?>
-        <title> Torneo del futbol </title>
+        <title> Kolab </title>
     </head>
     <body onload="loadData()">
 
